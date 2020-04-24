@@ -4,7 +4,7 @@ import time
 
 
 
-# Instantiates a client
+# Instantiates a client for V2 client
 translate_client = translate.Client()
 
 # The target language
